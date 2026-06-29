@@ -240,7 +240,7 @@ section { padding: 6rem 5vw; }
 }
 
 .credentials-block {
-  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
   background: var(--card2); border: 1px solid var(--border);
   border-radius: 16px; padding: 1.5rem 1.75rem;
   position: relative; overflow: hidden;
